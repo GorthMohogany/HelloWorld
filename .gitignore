@@ -1,6 +1,7 @@
 npm-debug.log
 .DS_Store
-
+*.idea/
+*.idea/*
 *.js.map
 app/**/*.js
 e2e/**/*.js

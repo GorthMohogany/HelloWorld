@@ -2,82 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0bbfa2-0f73-4d38-a2e6-9a7195a925b7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/HelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/app.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-hdpi/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-ldpi/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-ldpi/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-ldpi/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-mdpi/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-nodpi/splash_screen.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xhdpi/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxhdpi/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/drawable-xxxhdpi/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/values-v21/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/values-v21/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/Android/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-29@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-29@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-40@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-40@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-60@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-60@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-76@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/AppIcon.appiconset/icon-83.5@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-1125h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-568h@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-667h@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-736h@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-X.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-Landscape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-Landscape@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-Landscape@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-Portrait.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default-Portrait@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchImage.launchimage/Default@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.AspectFill.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.AspectFill.imageset/LaunchScreen-AspectFill.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.AspectFill.imageset/LaunchScreen-AspectFill@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.Center.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.Center.imageset/LaunchScreen-Center.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Assets.xcassets/LaunchScreen.Center.imageset/LaunchScreen-Center@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/App_Resources/iOS/build.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/images/apple.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/main-page.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/main-page.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/main-page.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -94,25 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/app.js">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="main-page.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/main-page.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="65">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="117">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -134,6 +57,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/main-page.xml" />
+        <option value="$PROJECT_DIR$/app/app.css" />
       </list>
     </option>
   </component>
@@ -342,14 +267,16 @@
       <path value="$PROJECT_DIR$/platforms/android/app/src/main/assets/app/tns_modules/tns-core-modules/xml/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
-    <option name="width" value="1390" />
+    <option name="width" value="784" />
     <option name="height" value="1756" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -369,14 +296,7 @@
               <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
               <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="App_Resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="App_Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Android" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -418,26 +338,27 @@
       <option name="presentableId" value="Default" />
       <updated>1526520287092</updated>
       <workItem from="1526520290157" duration="431000" />
-      <workItem from="1526520746067" duration="1653000" />
+      <workItem from="1526520746067" duration="2704000" />
+      <workItem from="1526523497264" duration="805000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2084000" />
+    <option name="totallyTimeSpent" value="3940000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <frame x="-5" y="0" width="392" height="878" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989429" weight="0.7359636" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989429" weight="0.6342944" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info id="npm" order="2" sideWeight="0.5010571" side_tool="true" weight="0.17695168" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="npm" order="2" sideWeight="0.5010571" side_tool="true" weight="0.17695168" />
       <window_info id="Structure" order="1" sideWeight="0.5010571" side_tool="true" weight="0.17695168" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.7506667" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33109018" />
       <window_info id="Favorites" order="2" sideWeight="0.5010571" side_tool="true" weight="0.17695168" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -446,6 +367,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,23 +377,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.css">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="195">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/app/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        <state relative-caret-position="117">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/main-page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
